@@ -44,7 +44,7 @@ O dataset Walker Lake contém 470 amostras de sondagem com teores de cobre (Cu) 
 2. Execute todas as células em sequência
 3. Os resultados serão salvos automaticamente na pasta `eda_output/`
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/walker-lake-eda/blob/main/EDA_Walker_Lake_v02a.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Iz-castro/walker-lake-eda/blob/main/EDA_Walker_Lake_v03.ipynb)
 ---
 
 *Trabalho acadêmico - MBA FGV 2025*
