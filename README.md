@@ -35,7 +35,7 @@ O dataset Walker Lake contém 470 amostras de sondagem com teores de cobre (Cu) 
 ## 📁 Estrutura
 
 - `walker_lake.xlsx` - Dataset original
-- `EDA_Walker_Lake_v02a.ipynb` - Notebook com análise completa
+- `EDA_Walker_Lake_v03.ipynb` - Notebook com análise completa
 - `eda_output/` - Pasta com resultados gerados (criada durante execução)
 
 ## ▶️ Como Executar
