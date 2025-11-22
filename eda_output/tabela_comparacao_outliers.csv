@@ -1,0 +1,10 @@
+Métrica,Cobre COM outliers,Cobre SEM outliers,Ouro COM outliers,Ouro SEM outliers
+N amostras,470,467,470,255
+Média,4.353%,4.286%,-42.1955 PPM,0.4972 PPM
+Mediana,4.240%,4.212%,0.0253 PPM,0.2965 PPM
+Desvio Padrão,2.999%,2.888%,49.3724 PPM,0.5253 PPM
+Mínimo,0.000%,0.000%,-99.0000 PPM,0.0001 PPM
+Máximo,15.281%,12.599%,5.1901 PPM,1.9921 PPM
+Outliers,3,0,13,0
+% Outliers,0.64%,0%,2.77%,0%
+Impacto na Média (%),-,1.54%,-,101.18%
