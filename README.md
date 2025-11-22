@@ -46,4 +46,4 @@ O dataset Walker Lake contém 470 amostras de sondagem com teores de cobre (Cu) 
 
 ---
 
-*Trabalho acadêmico - MBA FGV 2024*
+*Trabalho acadêmico - MBA FGV 2025*
